@@ -10,13 +10,13 @@
     <loc>https://gt.rstudio.com/CONTRIBUTING.html</loc>
   </url>
   <url>
-    <loc>https://gt.rstudio.com/ISSUE_TEMPLATE.html</loc>
-  </url>
-  <url>
     <loc>https://gt.rstudio.com/LICENSE-text.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/PULL_REQUEST_TEMPLATE.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/articles/case-study-gtcars.html</loc>
@@ -56,6 +56,9 @@
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/as_rtf.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/as_word.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/cell_borders.html</loc>
@@ -112,6 +115,9 @@
     <loc>https://gt.rstudio.com/reference/cols_align.html</loc>
   </url>
   <url>
+    <loc>https://gt.rstudio.com/reference/cols_align_decimal.html</loc>
+  </url>
+  <url>
     <loc>https://gt.rstudio.com/reference/cols_hide.html</loc>
   </url>
   <url>
@@ -163,6 +169,9 @@
     <loc>https://gt.rstudio.com/reference/exibble.html</loc>
   </url>
   <url>
+    <loc>https://gt.rstudio.com/reference/extract_cells.html</loc>
+  </url>
+  <url>
     <loc>https://gt.rstudio.com/reference/extract_summary.html</loc>
   </url>
   <url>
@@ -181,7 +190,13 @@
     <loc>https://gt.rstudio.com/reference/fmt_datetime.html</loc>
   </url>
   <url>
+    <loc>https://gt.rstudio.com/reference/fmt_duration.html</loc>
+  </url>
+  <url>
     <loc>https://gt.rstudio.com/reference/fmt_engineering.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/fmt_fraction.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/fmt_integer.html</loc>
@@ -196,10 +211,16 @@
     <loc>https://gt.rstudio.com/reference/fmt_number.html</loc>
   </url>
   <url>
+    <loc>https://gt.rstudio.com/reference/fmt_partsper.html</loc>
+  </url>
+  <url>
     <loc>https://gt.rstudio.com/reference/fmt_passthrough.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/fmt_percent.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/fmt_roman.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/fmt_scientific.html</loc>
@@ -283,7 +304,13 @@
     <loc>https://gt.rstudio.com/reference/opt_footnote_marks.html</loc>
   </url>
   <url>
+    <loc>https://gt.rstudio.com/reference/opt_horizontal_padding.html</loc>
+  </url>
+  <url>
     <loc>https://gt.rstudio.com/reference/opt_row_striping.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/opt_stylize.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/opt_table_font.html</loc>
@@ -293,6 +320,9 @@
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/opt_table_outline.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/opt_vertical_padding.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/pct.html</loc>
@@ -328,6 +358,21 @@
     <loc>https://gt.rstudio.com/reference/sp500.html</loc>
   </url>
   <url>
+    <loc>https://gt.rstudio.com/reference/stub.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/sub_large_vals.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/sub_missing.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/sub_small_vals.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/sub_zero.html</loc>
+  </url>
+  <url>
     <loc>https://gt.rstudio.com/reference/summary_rows.html</loc>
   </url>
   <url>
@@ -355,6 +400,9 @@
     <loc>https://gt.rstudio.com/reference/tab_spanner_delim.html</loc>
   </url>
   <url>
+    <loc>https://gt.rstudio.com/reference/tab_stub_indent.html</loc>
+  </url>
+  <url>
     <loc>https://gt.rstudio.com/reference/tab_stubhead.html</loc>
   </url>
   <url>
@@ -365,6 +413,51 @@
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/text_transform.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_bytes.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_currency.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_date.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_datetime.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_duration.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_engineering.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_fraction.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_integer.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_markdown.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_number.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_partsper.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_percent.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_roman.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_scientific.html</loc>
+  </url>
+  <url>
+    <loc>https://gt.rstudio.com/reference/vec_fmt_time.html</loc>
   </url>
   <url>
     <loc>https://gt.rstudio.com/reference/web_image.html</loc>
